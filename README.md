@@ -1,6 +1,7 @@
 
   
 ###  A Simple Tabata Timer App 
+###  This App Is Built With ReactNative 
 
   
 ### Application Sketch
